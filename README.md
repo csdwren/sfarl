@@ -1,1 +1,1 @@
-# Simultaneous Learning for Image Restoration
+# Simultaneous Fidelity and Regularization Learning for Image Restoration
