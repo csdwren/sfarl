@@ -8,7 +8,7 @@
 
 - [models] include trained models for rain streak removal, image deconvolution and Gaussian denoising. 
 
-- [matlab] include codes for SFARL inference and MatconvNet files. 
+- [matlab] include codes for SFARL inference and required MatconvNet files. 
 
 - [datasets] include test images for each task.
 
@@ -39,7 +39,7 @@ The left is the rainy image, the right is the deraining image by SFARL.
 <img src="datasets/derain/8.png" width="367px"/> <img src="results/derain/8.png" width="367px"/>
 
 ## Image deconvolution
-The left is the degraded image by disk kernel, saturation, Gaussian noise and JPEG compression, the right is the deraining image by SFARL.
+The left is the degraded image by disk kernel, saturation, Gaussian noise and JPEG compression, the right is the deblurring image by SFARL.
 
 <img src="datasets/deconvolution/disk/6.jpg" width="367px"/> <img src="results/deconvolution/disk/6.png" width="367px"/>
 
