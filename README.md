@@ -66,5 +66,5 @@ The left is the noisy image with Gaussian noise, the right is the denoising imag
 
 
 # Acknowledgments
-Our implementation benefits a lot from [TNRD]() and [UNET]() 
+Our implementation benefits from [TNRD]() and [UNET]() 
 
