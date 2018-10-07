@@ -51,11 +51,11 @@ The left is the degraded image by disk kernel, saturation, Gaussian noise and JP
 
 The left is the noisy image with Gaussian noise, the right is the denoising image by SFARL.
 
-<img src="datasets/denoise/noisy/test004_sigma50.png" width="367px"/> <img src="results/denoise/BSD68/test004sigma_50.png" width="367px"/>
+<img src="datasets/denoise/noisy/test004_sigma50.png" width="367px"/> <img src="results/denoise/test004sigma_50.png" width="367px"/>
 
-<img src="datasets/denoise/noisy/test005_sigma50.png" width="367px"/> <img src="results/denoise/BSD68/test005sigma_50.png" width="367px"/>
+<img src="datasets/denoise/noisy/test005_sigma50.png" width="367px"/> <img src="results/denoise/test005sigma_50.png" width="367px"/>
 
-<img src="datasets/denoise/noisy/test006_sigma50.png" width="367px"/> <img src="results/denoise/BSD68/test006sigma_50.png" width="367px"/>
+<img src="datasets/denoise/noisy/test006_sigma50.png" width="367px"/> <img src="results/denoise/test006sigma_50.png" width="367px"/>
 
 
 # Requirements and Dependencies
@@ -66,5 +66,5 @@ The left is the noisy image with Gaussian noise, the right is the denoising imag
 
 
 # Acknowledgments
-Our implementation benefits a lot from [TNRD]() and [UNET](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Lefkimmiatis_Universal_Denoising_Networks_CVPR_2018_paper.pdf) 
+Our implementation benefits a lot from [TNRD]() and [UNET]() 
 
