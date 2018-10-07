@@ -19,7 +19,7 @@
 
 # Motivation
 
-- Most existing non-blind restoration methods are based on the assumption that a precise degradation model is known. 
+Most existing non-blind restoration methods are based on the assumption that a precise degradation model is known. 
 As the degradation process can only partially known or inaccurately modeled, images may not be well restored. 
 We in this paper propose to design a flexible fidelity term to model the residual image caused by partially known degradation.
 Regularization term can be simultaneously learned, resulting in SFARL model. 
