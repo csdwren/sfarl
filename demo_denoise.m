@@ -1,7 +1,7 @@
 
 run(fullfile('matlab', 'vl_layers', 'vl_setupnn.m'));
 
-opts.cuda = false;
+opts.cuda = true;
 
 opts.filePath = 'datasets/denoise/BSD68/test001.png'; 
 opts.noise_std = 50; %% 15, 25 or 50
@@ -16,7 +16,9 @@ if opts.cuda
     y = gpuArray(y);
 end
 
+tic
 x = sfarlnet_den(y,'stdn',opts.noise_std,'netPath',opts.netPath);
+toc
 
 if opts.cuda
     x = gather(x);
