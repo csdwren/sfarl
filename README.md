@@ -1,4 +1,4 @@
-# SFARL
+# SFARL (The training code is coming soon )
 # [Simultaneous Fidelity and Regularization Learning for Image Restoration](https://arxiv.org/pdf/1804.04522.pdf)
 
 
@@ -65,6 +65,14 @@ The left is the noisy image with Gaussian noise, the right is the denoising imag
   * [cuda](https://developer.nvidia.com/cuda-toolkit-archive)-8.0 & [cuDNN](https://developer.nvidia.com/cudnn) v-5.1
 
 
-# Acknowledgments
-Our implementation benefits from [TNRD]() and [UNET]() 
+# Citation
+
+```
+ @article{ren2019imultaneous,
+   title={Simultaneous Fidelity and Regularization Learning for Image Restoration},
+   author={Ren, Dongwei and Zuo, Wangmeng and Zhang, David and Zhang, Lei and Yang, Ming-Hsuan},
+   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+   year={2019},
+ }
+ ```
 
