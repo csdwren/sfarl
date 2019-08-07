@@ -1,4 +1,4 @@
-# SFARL (The training code is coming soon )
+# SFARL
 # [Simultaneous Fidelity and Regularization Learning for Image Restoration](https://arxiv.org/pdf/1804.04522.pdf)
 
 
