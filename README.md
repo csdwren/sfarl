@@ -68,7 +68,7 @@ The left is the noisy image with Gaussian noise, the right is the denoising imag
 # Citation
 
 ```
- @article{ren2019imultaneous,
+ @article{ren2019simultaneous,
    title={Simultaneous Fidelity and Regularization Learning for Image Restoration},
    author={Ren, Dongwei and Zuo, Wangmeng and Zhang, David and Zhang, Lei and Yang, Ming-Hsuan},
    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
